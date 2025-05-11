@@ -1,0 +1,13 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model Buoi3.Models.SanPhamViewModel
+
+<h1>Thông tin sản phẩm</h1>
+<p><strong>Tên:</strong> @Model.TenSanPham</p>
+<p><strong>Giá bán:</strong> @Model.GiaBan.ToString("N0") VNĐ</p>
+<p><strong>Ảnh mô tả:</strong></p>
+<img src="@Model.AnhMoTa" alt="Ảnh sản phẩm" width="300" />

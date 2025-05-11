@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Buoi3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F56A568B-73F4-4A69-B0FD-AFE1C6E8A7A1}|Buoi3\\Buoi3.csproj|c:\\users\\dell\\source\\repos\\buoi3\\buoi3\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F56A568B-73F4-4A69-B0FD-AFE1C6E8A7A1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56A568B-73F4-4A69-B0FD-AFE1C6E8A7A1}|Buoi3\\Buoi3.csproj|c:\\users\\dell\\source\\repos\\buoi3\\buoi3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56A568B-73F4-4A69-B0FD-AFE1C6E8A7A1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56A568B-73F4-4A69-B0FD-AFE1C6E8A7A1}|Buoi3\\Buoi3.csproj|c:\\users\\dell\\source\\repos\\buoi3\\buoi3\\views\\student\\kq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F56A568B-73F4-4A69-B0FD-AFE1C6E8A7A1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\views\\student\\kq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56A568B-73F4-4A69-B0FD-AFE1C6E8A7A1}|Buoi3\\Buoi3.csproj|c:\\users\\dell\\source\\repos\\buoi3\\buoi3\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56A568B-73F4-4A69-B0FD-AFE1C6E8A7A1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56A568B-73F4-4A69-B0FD-AFE1C6E8A7A1}|Buoi3\\Buoi3.csproj|c:\\users\\dell\\source\\repos\\buoi3\\buoi3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56A568B-73F4-4A69-B0FD-AFE1C6E8A7A1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56A568B-73F4-4A69-B0FD-AFE1C6E8A7A1}|Buoi3\\Buoi3.csproj|c:\\users\\dell\\source\\repos\\buoi3\\buoi3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56A568B-73F4-4A69-B0FD-AFE1C6E8A7A1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56A568B-73F4-4A69-B0FD-AFE1C6E8A7A1}|Buoi3\\Buoi3.csproj|c:\\users\\dell\\source\\repos\\buoi3\\buoi3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F56A568B-73F4-4A69-B0FD-AFE1C6E8A7A1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56A568B-73F4-4A69-B0FD-AFE1C6E8A7A1}|Buoi3\\Buoi3.csproj|c:\\users\\dell\\source\\repos\\buoi3\\buoi3\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F56A568B-73F4-4A69-B0FD-AFE1C6E8A7A1}|Buoi3\\Buoi3.csproj|solutionrelative:buoi3\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KQ.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Buoi3\\Buoi3\\Views\\student\\KQ.cshtml",
+              "RelativeDocumentMoniker": "Buoi3\\Views\\student\\KQ.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Buoi3\\Buoi3\\Views\\student\\KQ.cshtml",
+              "RelativeToolTip": "Buoi3\\Views\\student\\KQ.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T10:22:51.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Buoi3\\Buoi3\\Views\\student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Buoi3\\Views\\student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Buoi3\\Buoi3\\Views\\student\\Index.cshtml",
+              "RelativeToolTip": "Buoi3\\Views\\student\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvy8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T10:22:10.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Buoi3\\Buoi3\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "Buoi3\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Buoi3\\Buoi3\\Models\\StudentModel.cs",
+              "RelativeToolTip": "Buoi3\\Models\\StudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:20:54.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Buoi3\\Buoi3\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Buoi3\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Buoi3\\Buoi3\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Buoi3\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:20:15.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Buoi3\\Buoi3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Buoi3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Buoi3\\Buoi3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Buoi3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:14:04.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Buoi3\\Buoi3\\Views\\sanpham\\Index.cshtml",
+              "RelativeDocumentMoniker": "Buoi3\\Views\\sanpham\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Buoi3\\Buoi3\\Views\\sanpham\\Index.cshtml",
+              "RelativeToolTip": "Buoi3\\Views\\sanpham\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:36:31.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Buoi3\\Buoi3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Buoi3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Buoi3\\Buoi3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Buoi3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:29:06.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Buoi3\\Buoi3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Buoi3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Buoi3\\Buoi3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Buoi3\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:28:06.234Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 63,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
