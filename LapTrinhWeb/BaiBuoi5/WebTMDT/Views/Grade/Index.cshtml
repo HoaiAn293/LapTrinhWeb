@@ -1,0 +1,41 @@
+﻿@model IEnumerable<WebTMDT.Models.Grade>
+
+@{
+    ViewData["Title"] = "Danh sách lớp";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table table-striped table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>Mã lớp</th>
+            <th>Tên lớp</th>
+            <th>Danh sách sinh viên</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var grade in Model)
+        {
+                <tr>
+                    <td>@grade.GradeId</td>
+                    <td>@grade.GradeName</td>
+                    <td>
+                    @if (grade.Students != null && grade.Students.Any())
+                    {
+                       <ul class="mb-0">
+                            @foreach (var student in grade.Students)
+                            {
+                              <li>@student.FirstName @student.LastName</li>
+                            }
+                        </ul>
+                    }
+                    else
+                    {
+                                <span>Chưa có sinh viên</span>
+                    }
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>

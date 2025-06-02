@@ -1,215 +1,215 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\css\\animated.css",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\css\\animated.css",
       "PackagePath": "staticwebassets\\assets\\css\\animated.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\css\\fontawesome.css",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\css\\fontawesome.css",
       "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\css\\owl.css",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\css\\owl.css",
       "PackagePath": "staticwebassets\\assets\\css\\owl.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\css\\templatemo-space-dynamic.css",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\css\\templatemo-space-dynamic.css",
       "PackagePath": "staticwebassets\\assets\\css\\templatemo-space-dynamic.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\Flaticon.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.eot"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.svg"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.ttf"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.woff"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\slick.eot",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\slick.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\slick.svg",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\slick.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\slick.ttf",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\slick.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\slick.woff",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\slick.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\about-bg.png",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\about-bg.png",
       "PackagePath": "staticwebassets\\assets\\images\\about-bg.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\about-left-image.png",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\about-left-image.png",
       "PackagePath": "staticwebassets\\assets\\images\\about-left-image.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\baner-dec-left.png",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\baner-dec-left.png",
       "PackagePath": "staticwebassets\\assets\\images\\baner-dec-left.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\baner-dec-right.png",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\baner-dec-right.png",
       "PackagePath": "staticwebassets\\assets\\images\\baner-dec-right.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\banner-right-image.png",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\banner-right-image.png",
       "PackagePath": "staticwebassets\\assets\\images\\banner-right-image.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\big-blog-thumb.jpg",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\big-blog-thumb.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\big-blog-thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\blog-dec.png",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\blog-dec.png",
       "PackagePath": "staticwebassets\\assets\\images\\blog-dec.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\blog-thumb-01.jpg",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\blog-thumb-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog-thumb-01.jpg"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\contact-bg.png",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\contact-bg.png",
       "PackagePath": "staticwebassets\\assets\\images\\contact-bg.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\contact-decoration.png",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\contact-decoration.png",
       "PackagePath": "staticwebassets\\assets\\images\\contact-decoration.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\portfolio-image.png",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\portfolio-image.png",
       "PackagePath": "staticwebassets\\assets\\images\\portfolio-image.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\service-icon-01.png",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\service-icon-01.png",
       "PackagePath": "staticwebassets\\assets\\images\\service-icon-01.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\service-icon-02.png",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\service-icon-02.png",
       "PackagePath": "staticwebassets\\assets\\images\\service-icon-02.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\service-icon-03.png",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\service-icon-03.png",
       "PackagePath": "staticwebassets\\assets\\images\\service-icon-03.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\service-icon-04.png",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\service-icon-04.png",
       "PackagePath": "staticwebassets\\assets\\images\\service-icon-04.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\services-left-image.png",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\services-left-image.png",
       "PackagePath": "staticwebassets\\assets\\images\\services-left-image.png"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\js\\animation.js",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\js\\animation.js",
       "PackagePath": "staticwebassets\\assets\\js\\animation.js"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\js\\imagesloaded.js",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\js\\imagesloaded.js",
       "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.js"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\js\\isotope.js",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\js\\isotope.js",
       "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\js\\owl-carousel.js",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\js\\owl-carousel.js",
       "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\js\\tabs.js",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\js\\tabs.js",
       "PackagePath": "staticwebassets\\assets\\js\\tabs.js"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\js\\templatemo-custom.js",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\js\\templatemo-custom.js",
       "PackagePath": "staticwebassets\\assets\\js\\templatemo-custom.js"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\favicon.ico",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.js",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.js",
       "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.min.js",
       "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.min.map",
       "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.slim.js",
       "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
     },
     {
-      "Id": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "Id": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.map"
     },
     {

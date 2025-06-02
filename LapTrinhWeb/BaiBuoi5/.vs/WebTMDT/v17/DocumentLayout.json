@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|c:\\users\\dell\\source\\repos\\webtmdt\\webtmdt\\views\\grade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|solutionrelative:webtmdt\\views\\grade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|c:\\users\\dell\\source\\repos\\webtmdt\\webtmdt\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|solutionrelative:webtmdt\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|c:\\users\\dell\\source\\repos\\webtmdt\\webtmdt\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|solutionrelative:webtmdt\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|c:\\users\\dell\\source\\repos\\webtmdt\\webtmdt\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|solutionrelative:webtmdt\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|c:\\users\\dell\\source\\repos\\webtmdt\\webtmdt\\migrations\\20250602082257_themdulieumau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|solutionrelative:webtmdt\\migrations\\20250602082257_themdulieumau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|c:\\users\\dell\\source\\repos\\webtmdt\\webtmdt\\migrations\\20250602082238_khoi_tao_bang_student_va_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|solutionrelative:webtmdt\\migrations\\20250602082238_khoi_tao_bang_student_va_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|c:\\users\\dell\\source\\repos\\webtmdt\\webtmdt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|solutionrelative:webtmdt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|c:\\users\\dell\\source\\repos\\webtmdt\\webtmdt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|solutionrelative:webtmdt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|c:\\users\\dell\\source\\repos\\webtmdt\\webtmdt\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|solutionrelative:webtmdt\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|c:\\users\\dell\\source\\repos\\webtmdt\\webtmdt\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD1A8E8-2A83-432B-90EA-B208FAD02B72}|WebTMDT\\WebTMDT.csproj|solutionrelative:webtmdt\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250602082238_Khoi_Tao_Bang_Student_Va_Student.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Migrations\\20250602082238_Khoi_Tao_Bang_Student_Va_Student.cs",
+              "RelativeDocumentMoniker": "WebTMDT\\Migrations\\20250602082238_Khoi_Tao_Bang_Student_Va_Student.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Migrations\\20250602082238_Khoi_Tao_Bang_Student_Va_Student.cs",
+              "RelativeToolTip": "WebTMDT\\Migrations\\20250602082238_Khoi_Tao_Bang_Student_Va_Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:22:38.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Views\\Grade\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebTMDT\\Views\\Grade\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Views\\Grade\\Index.cshtml",
+              "RelativeToolTip": "WebTMDT\\Views\\Grade\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T08:21:51.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebTMDT\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebTMDT\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:06:58.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Controllers\\GradeController.cs",
+              "RelativeDocumentMoniker": "WebTMDT\\Controllers\\GradeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Controllers\\GradeController.cs",
+              "RelativeToolTip": "WebTMDT\\Controllers\\GradeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:05:18.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\appsettings.json",
+              "RelativeDocumentMoniker": "WebTMDT\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\appsettings.json",
+              "RelativeToolTip": "WebTMDT\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T08:04:48.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "WebTMDT\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Models\\Grade.cs",
+              "RelativeToolTip": "WebTMDT\\Models\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:13:52.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebTMDT\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Models\\Student.cs",
+              "RelativeToolTip": "WebTMDT\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:14:42.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250602082257_ThemDuLieuMau.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Migrations\\20250602082257_ThemDuLieuMau.cs",
+              "RelativeDocumentMoniker": "WebTMDT\\Migrations\\20250602082257_ThemDuLieuMau.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Migrations\\20250602082257_ThemDuLieuMau.cs",
+              "RelativeToolTip": "WebTMDT\\Migrations\\20250602082257_ThemDuLieuMau.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:22:57.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebTMDT\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebTMDT\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:16:28.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Program.cs",
+              "RelativeDocumentMoniker": "WebTMDT\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\Program.cs",
+              "RelativeToolTip": "WebTMDT\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:37:31.218Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 63,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

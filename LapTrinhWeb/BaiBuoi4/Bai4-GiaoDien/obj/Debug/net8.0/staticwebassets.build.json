@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "n99Cb4Wgf+y/SKh/C0O5F6V+I1vyshRXAI0u0ierUC4=",
+  "Hash": "twCWKQnV9GqPI4zx+e11DBHrpdUR40sKZ7uTuK5K6pM=",
   "Source": "Bai4-GiaoDien",
   "BasePath": "_content/Bai4-GiaoDien",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Bai4-GiaoDien\\wwwroot",
       "Source": "Bai4-GiaoDien",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\css\\animated.css",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\css\\animated.css",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/css/animated.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\animated.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\css\\fontawesome.css",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\css\\fontawesome.css",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/css/fontawesome.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\fontawesome.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\css\\owl.css",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\css\\owl.css",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/css/owl.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\owl.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\css\\templatemo-space-dynamic.css",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\css\\templatemo-space-dynamic.css",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/css/templatemo-space-dynamic.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\templatemo-space-dynamic.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\Flaticon.woff",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/fonts/Flaticon.woff",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Flaticon.woff"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/fonts/flexslider-icon.eot",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\flexslider-icon.eot"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/fonts/flexslider-icon.svg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\flexslider-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/fonts/flexslider-icon.ttf",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\flexslider-icon.ttf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/fonts/flexslider-icon.woff",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\flexslider-icon.woff"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\slick.eot",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\slick.eot",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/fonts/slick.eot",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\slick.eot"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\slick.svg",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\slick.svg",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/fonts/slick.svg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\slick.svg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\slick.ttf",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\slick.ttf",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/fonts/slick.ttf",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\slick.ttf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\slick.woff",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\fonts\\slick.woff",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/fonts/slick.woff",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\slick.woff"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\about-bg.png",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\about-bg.png",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/images/about-bg.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\about-bg.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\about-left-image.png",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\about-left-image.png",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/images/about-left-image.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\about-left-image.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\baner-dec-left.png",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\baner-dec-left.png",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/images/baner-dec-left.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\baner-dec-left.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\baner-dec-right.png",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\baner-dec-right.png",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/images/baner-dec-right.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\baner-dec-right.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\banner-right-image.png",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\banner-right-image.png",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/images/banner-right-image.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner-right-image.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\big-blog-thumb.jpg",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\big-blog-thumb.jpg",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/images/big-blog-thumb.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\big-blog-thumb.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\blog-dec.png",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\blog-dec.png",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/images/blog-dec.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog-dec.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\blog-thumb-01.jpg",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\blog-thumb-01.jpg",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/images/blog-thumb-01.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog-thumb-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\contact-bg.png",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\contact-bg.png",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/images/contact-bg.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\contact-bg.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\contact-decoration.png",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\contact-decoration.png",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/images/contact-decoration.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\contact-decoration.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\portfolio-image.png",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\portfolio-image.png",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/images/portfolio-image.png",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\portfolio-image.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\service-icon-01.png",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\service-icon-01.png",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/images/service-icon-01.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\service-icon-01.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\service-icon-02.png",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\service-icon-02.png",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/images/service-icon-02.png",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\service-icon-02.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\service-icon-03.png",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\service-icon-03.png",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/images/service-icon-03.png",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\service-icon-03.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\service-icon-04.png",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\service-icon-04.png",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/images/service-icon-04.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\service-icon-04.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\images\\services-left-image.png",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\images\\services-left-image.png",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/images/services-left-image.png",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\services-left-image.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\js\\animation.js",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\js\\animation.js",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/js/animation.js",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\animation.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\js\\imagesloaded.js",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\js\\imagesloaded.js",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/js/imagesloaded.js",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\imagesloaded.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\js\\isotope.js",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\js\\isotope.js",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/js/isotope.js",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\isotope.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\js\\owl-carousel.js",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\js\\owl-carousel.js",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/js/owl-carousel.js",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\owl-carousel.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\js\\tabs.js",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\js\\tabs.js",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/js/tabs.js",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\tabs.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\assets\\js\\templatemo-custom.js",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\assets\\js\\templatemo-custom.js",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "assets/js/templatemo-custom.js",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\templatemo-custom.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\favicon.ico",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "vendor/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "vendor/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "vendor/bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "vendor/bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "vendor/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.js",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.js",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "vendor/jquery/jquery.js",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\jquery\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.min.js",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "vendor/jquery/jquery.min.js",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.min.map",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "vendor/jquery/jquery.min.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\jquery\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.slim.js",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "vendor/jquery/jquery.slim.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\jquery\\jquery.slim.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "vendor/jquery/jquery.slim.min.js",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\jquery\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "Identity": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
       "SourceId": "Bai4-GiaoDien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Bai4-GiaoDien\\Bai4-GiaoDien\\wwwroot\\",
+      "ContentRoot": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi4\\Bai4-GiaoDien\\wwwroot\\",
       "BasePath": "_content/Bai4-GiaoDien",
       "RelativePath": "vendor/jquery/jquery.slim.min.map",
       "AssetKind": "All",
