@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\WebTMDT.csproj": {}
+    "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi5\\WebTMDT\\WebTMDT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\WebTMDT.csproj": {
+    "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi5\\WebTMDT\\WebTMDT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\WebTMDT.csproj",
+        "projectUniqueName": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi5\\WebTMDT\\WebTMDT.csproj",
         "projectName": "WebTMDT",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\WebTMDT.csproj",
+        "projectPath": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi5\\WebTMDT\\WebTMDT.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\obj\\",
+        "outputPath": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi5\\WebTMDT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,155 @@
+﻿@{
+    ViewData["Title"] = "Trang chủ - Nhà sách trực tuyến";
+}
+
+<div class="container-fluid px-0">
+    <div class="hero-section position-relative" style="background-image: url('/images/Background-sach-background-book-800x488.jpg'); background-size: cover; background-position: center; height: 600px;">
+        <div class="overlay position-absolute " style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.5))"></div>
+        <div class="hero-content position-absolute w-100 h-100 d-flex align-items-center justify-content-center text-center text-white">
+            <div>
+                <h1 class="display-3 fw-bold mb-4" style="text-shadow: 2px 2px 4px rgba(0,0,0,0.5)">Chào mừng đến với Nhà sách trực tuyến</h1>
+                <p class="lead fs-4 mb-4" style="text-shadow: 1px 1px 2px rgba(0,0,0,0.5)">Khám phá hàng ngàn đầu sách hay với giá tốt nhất</p>
+                <a href="/Product" class="btn btn-primary btn-lg px-5 py-3 rounded-pill fw-bold">Xem sách ngay</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="container py-5">
+        <div class="row mb-5">
+            <div class="col-12 text-center">
+                <h2 class="display-5 fw-bold mb-3">Danh mục nổi bật</h2>
+                <p class="lead text-muted mb-5">Khám phá các thể loại sách phong phú của chúng tôi</p>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card h-100 border-0 shadow-sm hover-shadow transition">
+                    <div class="card-body text-center p-5">
+                        <i class="bi bi-book fs-1 text-primary mb-4"></i>
+                        <h3 class="h4 card-title mb-3">Sách văn học</h3>
+                        <p class="card-text text-muted mb-4">Khám phá các tác phẩm văn học Việt Nam và thế giới</p>
+                        <a href="/Product?category=van-hoc" class="btn btn-outline-primary rounded-pill px-4">Xem thêm</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card h-100 border-0 shadow-sm hover-shadow transition">
+                    <div class="card-body text-center p-5">
+                        <i class="bi bi-lightbulb fs-1 text-warning mb-4"></i>
+                        <h3 class="h4 card-title mb-3">Sách kỹ năng</h3>
+                        <p class="card-text text-muted mb-4">Phát triển bản thân với sách kỹ năng sống</p>
+                        <a href="/Product?category=ky-nang" class="btn btn-outline-primary rounded-pill px-4">Xem thêm</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card h-100 border-0 shadow-sm hover-shadow transition">
+                    <div class="card-body text-center p-5">
+                        <i class="bi bi-journal-text fs-1 text-success mb-4"></i>
+                        <h3 class="h4 card-title mb-3">Sách giáo khoa</h3>
+                        <p class="card-text text-muted mb-4">Tài liệu học tập cho mọi cấp độ</p>
+                        <a href="/Product?category=giao-khoa" class="btn btn-outline-primary rounded-pill px-4">Xem thêm</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="display-5 fw-bold mb-3">Sách nổi bật</h2>
+                <p class="lead text-muted mb-5">Những cuốn sách được yêu thích nhất</p>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="card h-100 border-0 shadow-sm hover-zoom transition">
+                    <div class="position-relative">
+                        <img src="/images/dacnhantam86.jpg" class="card-img-top" alt="Đắc Nhân Tâm" style="height: 400px; object-fit: cover;">
+                        <div class="overlay-hover"></div>
+                    </div>
+                    <div class="card-body text-center p-4">
+                        <h5 class="card-title mb-2">Đắc Nhân Tâm</h5>
+                        <p class="card-text text-muted mb-2">Dale Carnegie</p>
+                        <p class="card-text text-danger fw-bold fs-5 mb-3">89.000đ</p>
+                        <a href="/Product/Detail/1" class="btn btn-primary rounded-pill w-100">Xem chi tiết</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="card h-100 border-0 shadow-sm hover-zoom transition">
+                    <div class="position-relative">
+                        <img src="/images/NhaGiaKim.jpg" class="card-img-top" alt="Nhà Giả Kim" style="height: 400px; object-fit: cover;">
+                        <div class="overlay-hover"></div>
+                    </div>
+                    <div class="card-body text-center p-4">
+                        <h5 class="card-title mb-2">Nhà Giả Kim</h5>
+                        <p class="card-text text-muted mb-2">Paulo Coelho</p>
+                        <p class="card-text text-danger fw-bold fs-5 mb-3">79.000đ</p>
+                        <a href="/Product/Detail/2" class="btn btn-primary rounded-pill w-100">Xem chi tiết</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="card h-100 border-0 shadow-sm hover-zoom transition">
+                    <div class="position-relative">
+                        <img src="/images/CayCamNgot.jpg" class="card-img-top" alt="Cây Cam Ngọt Của Tôi" style="height: 400px; object-fit: cover;">
+                        <div class="overlay-hover"></div>
+                    </div>
+                    <div class="card-body text-center p-4">
+                        <h5 class="card-title mb-2">Cây Cam Ngọt Của Tôi</h5>
+                        <p class="card-text text-muted mb-2">José Mauro de Vasconcelos</p>
+                        <p class="card-text text-danger fw-bold fs-5 mb-3">85.000đ</p>
+                        <a href="/Product/Detail/3" class="btn btn-primary rounded-pill w-100">Xem chi tiết</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="card h-100 border-0 shadow-sm hover-zoom transition">
+                    <div class="position-relative">
+                        <img src="/images/IseeFlower.jpg" class="card-img-top" alt="Tôi Thấy Hoa Vàng Trên Cỏ Xanh" style="height: 400px; object-fit: cover;">
+                        <div class="overlay-hover"></div>
+                    </div>
+                    <div class="card-body text-center p-4">
+                        <h5 class="card-title mb-2">Tôi Thấy Hoa Vàng Trên Cỏ Xanh</h5>
+                        <p class="card-text text-muted mb-2">Nguyễn Nhật Ánh</p>
+                        <p class="card-text text-danger fw-bold fs-5 mb-3">95.000đ</p>
+                        <a href="/Product/Detail/4" class="btn btn-primary rounded-pill w-100">Xem chi tiết</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+.hover-shadow {
+    transition: all 0.3s ease;
+}
+
+.hover-shadow:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;
+}
+
+.hover-zoom {
+    transition: all 0.3s ease;
+}
+
+.hover-zoom:hover {
+    transform: scale(1.02);
+}
+
+.overlay-hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0);
+    transition: all 0.3s ease;
+}
+
+.card:hover .overlay-hover {
+    background: rgba(0,0,0,0.1);
+}
+
+.transition {
+    transition: all 0.3s ease;
+}
+</style>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GImjJyOTJ0SmpjLB33PvqW0+i57e0vDy3LEUOnfn3BqhWiCAC5U1iHdm2mIa2gOVndfBDxBNQ3WZaH/32Egx1w==",
+  "dgSpecHash": "SKY1+TWapAhhG7hm9gVCjdS4t36+YKAI3tjr4cBGc2k4Qh8NGnLW3uMw/ZHle910HMsMdXJ3B96a6oedQgIxWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\WebTMDT\\WebTMDT\\WebTMDT.csproj",
+  "projectFilePath": "D:\\Code-web\\HoaiAnLapTrinhWeb\\LapTrinhWeb\\BaiBuoi5\\WebTMDT\\WebTMDT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
