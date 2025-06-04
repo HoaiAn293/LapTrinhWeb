@@ -3,8 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\WebBanHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Migrations\\20250604081154_s\u1EEDa imgPath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebBanHang\\Migrations\\20250604081154_s\u1EEDa imgPath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,72 +75,16 @@
       "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\user\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\user\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -95,12 +99,60 @@
       "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\admin\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\admin\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\admin\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\user\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\user\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,10 +167,6 @@
       "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -131,16 +179,8 @@
       "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\migrations\\20250603012743_them bang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\migrations\\20250603012743_them bang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -167,22 +207,6 @@
       "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\webbanhang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|c:\\users\\dell\\downloads\\webbanhang\\webbanhang\\migrations\\20250601070750_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10B6E007-3FB0-42E3-B238-32A0FEB5DFD2}|WebBanHang\\WebBanHang.csproj|solutionrelative:webbanhang\\migrations\\20250601070750_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -194,7 +218,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -210,84 +234,202 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebBanHang\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebBanHang\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "DocumentIndex": 0,
+              "Title": "20250604081154_s\u1EEDa imgPath.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Migrations\\20250604081154_s\u1EEDa imgPath.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Migrations\\20250604081154_s\u1EEDa imgPath.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Migrations\\20250604081154_s\u1EEDa imgPath.cs",
+              "RelativeToolTip": "WebBanHang\\Migrations\\20250604081154_s\u1EEDa imgPath.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-01T07:49:20.407Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:11:54.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "WebBanHang\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "WebBanHang\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBsAAABKAAAA",
+              "DocumentIndex": 2,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "WebBanHang\\Views\\Product\\Display.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "WebBanHang\\Views\\Product\\Display.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-01T07:49:25.52Z",
+              "WhenOpened": "2025-06-04T08:06:33.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebBanHang\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "WebBanHang\\Views\\Product\\Add.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAApwBMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T08:06:26.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\ProductImage.cs",
+              "RelativeToolTip": "WebBanHang\\Models\\ProductImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:59:17.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "WebBanHang\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAEwBQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:54:27.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "WebBanHang\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "WebBanHang\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-01T07:49:46.23Z"
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebBanHang\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:59:59.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\Product.cs",
+              "RelativeToolTip": "WebBanHang\\Models\\Product.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAywBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:58:30.937Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebBanHang\\Views\\Admin\\Details.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\Details.cshtml",
+              "RelativeToolTip": "WebBanHang\\Views\\Admin\\Details.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowC4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T03:42:04.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebBanHang\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "WebBanHang\\Views\\Product\\Update.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAApwB4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T08:07:02.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Repositories\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Repositories\\EFCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Repositories\\EFCategoryRepository.cs",
+              "RelativeToolTip": "WebBanHang\\Repositories\\EFCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:11:16.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "EFProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Repositories\\EFProductRepository.cs",
               "RelativeDocumentMoniker": "WebBanHang\\Repositories\\EFProductRepository.cs",
               "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Repositories\\EFProductRepository.cs",
               "RelativeToolTip": "WebBanHang\\Repositories\\EFProductRepository.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAwAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAUAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T03:07:00.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Program.cs",
-              "RelativeDocumentMoniker": "WebBanHang\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Program.cs",
-              "RelativeToolTip": "WebBanHang\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAFAAAA",
+              "DocumentIndex": 6,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Services\\EmailSender.cs",
+              "RelativeToolTip": "WebBanHang\\Services\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAkAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T07:35:49.928Z",
+              "WhenOpened": "2025-06-04T07:45:39.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "WebBanHang\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "WebBanHang\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebBanHang\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "WebBanHang\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAqwDwAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-01T07:49:22.836Z",
+              "WhenOpened": "2025-06-03T03:42:06.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "WebBanHang\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:10:11.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "WebBanHang\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:10:00.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "WebBanHang\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
@@ -300,7 +442,160 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebBanHang\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:19:54.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebBanHang\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "WebBanHang\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T03:42:02.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "WebBanHang\\Views\\Admin\\CreateProduct.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\CreateProduct.cshtml",
+              "RelativeToolTip": "WebBanHang\\Views\\Admin\\CreateProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T03:42:03.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebBanHang\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebBanHang\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T07:49:22.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\appsettings.json",
+              "RelativeDocumentMoniker": "WebBanHang\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\appsettings.json",
+              "RelativeToolTip": "WebBanHang\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T01:21:01.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\Products.cshtml",
+              "RelativeDocumentMoniker": "WebBanHang\\Views\\Admin\\Products.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\Products.cshtml",
+              "RelativeToolTip": "WebBanHang\\Views\\Admin\\Products.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvxsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T02:36:54.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Program.cs",
+              "RelativeDocumentMoniker": "WebBanHang\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Program.cs",
+              "RelativeToolTip": "WebBanHang\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwCoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:35:49.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHang\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebBanHang\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T02:04:47.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "WebBanHang\\Views\\Admin\\EditProduct.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\EditProduct.cshtml",
+              "RelativeToolTip": "WebBanHang\\Views\\Admin\\EditProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T07:37:53.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebBanHang\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebBanHang\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T07:49:46.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebBanHang\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebBanHang\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T07:49:25.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebBanHang\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebBanHang\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T07:49:20.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "WebBanHang\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
@@ -308,12 +603,11 @@
               "RelativeToolTip": "WebBanHang\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-01T07:49:19.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T07:49:19.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 29,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "WebBanHang\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -321,12 +615,11 @@
               "RelativeToolTip": "WebBanHang\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AQIAAJAAAAAAAAAAAAAcwKEAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T12:51:24.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T12:51:24.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 30,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "WebBanHang\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
@@ -338,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 31,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebBanHang\\Views\\Shared\\_Layout.cshtml",
@@ -350,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 32,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "WebBanHang\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -362,19 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebBanHang\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebBanHang\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBQAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-03T02:04:47.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 33,
               "Title": "User.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\User\\User.cshtml",
               "RelativeDocumentMoniker": "WebBanHang\\Views\\User\\User.cshtml",
@@ -386,7 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 34,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "WebBanHang\\Views\\_ViewImports.cshtml",
@@ -398,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 35,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "WebBanHang\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -410,31 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\Details.cshtml",
-              "RelativeDocumentMoniker": "WebBanHang\\Views\\Admin\\Details.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\Details.cshtml",
-              "RelativeToolTip": "WebBanHang\\Views\\Admin\\Details.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAApwC0AAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-03T03:42:04.086Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WebBanHang\\Views\\Admin\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\Edit.cshtml",
-              "RelativeToolTip": "WebBanHang\\Views\\Admin\\Edit.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAApwDwAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-03T03:42:06.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 36,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "WebBanHang\\Views\\Shared\\Error.cshtml",
@@ -446,55 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "WebBanHang\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\Product.cs",
-              "RelativeToolTip": "WebBanHang\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAswBAAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T06:58:30.937Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebBanHang\\Views\\Admin\\Create.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\Create.cshtml",
-              "RelativeToolTip": "WebBanHang\\Views\\Admin\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-03T03:42:02.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CreateProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\CreateProduct.cshtml",
-              "RelativeDocumentMoniker": "WebBanHang\\Views\\Admin\\CreateProduct.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\CreateProduct.cshtml",
-              "RelativeToolTip": "WebBanHang\\Views\\Admin\\CreateProduct.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-03T03:42:03.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Products.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\Products.cshtml",
-              "RelativeDocumentMoniker": "WebBanHang\\Views\\Admin\\Products.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Admin\\Products.cshtml",
-              "RelativeToolTip": "WebBanHang\\Views\\Admin\\Products.cshtml",
-              "ViewState": "AQIAABAAAAAAAAAAAADwvxsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-03T02:36:54.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 37,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\Category.cs",
               "RelativeDocumentMoniker": "WebBanHang\\Models\\Category.cs",
@@ -506,19 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "WebBanHang\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "WebBanHang\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T07:19:54.31Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 38,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "WebBanHang\\Models\\ApplicationUser.cs",
@@ -530,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 39,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "WebBanHang\\Controllers\\UserController.cs",
@@ -542,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 40,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "WebBanHang\\Controllers\\AdminController.cs",
@@ -554,19 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "WebBanHang\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "WebBanHang\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T06:59:59.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 41,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "WebBanHang\\Controllers\\ProductController.cs",
@@ -578,7 +763,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 42,
               "Title": "20250603024341_AddStockToProduct.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Migrations\\20250603024341_AddStockToProduct.cs",
               "RelativeDocumentMoniker": "WebBanHang\\Migrations\\20250603024341_AddStockToProduct.cs",
@@ -590,7 +775,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 43,
               "Title": "Logout.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
               "RelativeDocumentMoniker": "WebBanHang\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
@@ -602,19 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\appsettings.json",
-              "RelativeDocumentMoniker": "WebBanHang\\appsettings.json",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\appsettings.json",
-              "RelativeToolTip": "WebBanHang\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-03T01:21:01.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 44,
               "Title": "20250603012743_Them Bang.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Migrations\\20250603012743_Them Bang.cs",
               "RelativeDocumentMoniker": "WebBanHang\\Migrations\\20250603012743_Them Bang.cs",
@@ -626,19 +799,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "WebBanHang\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "WebBanHang\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T12:54:27.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 45,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "WebBanHang\\Views\\Product\\Index.cshtml",
@@ -650,7 +811,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 46,
               "Title": "20250601123235_ExtendIdentityUser.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Migrations\\20250601123235_ExtendIdentityUser.cs",
               "RelativeDocumentMoniker": "WebBanHang\\Migrations\\20250601123235_ExtendIdentityUser.cs",
@@ -662,7 +823,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 47,
               "Title": "20250601074345_AddIdentity.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Migrations\\20250601074345_AddIdentity.cs",
               "RelativeDocumentMoniker": "WebBanHang\\Migrations\\20250601074345_AddIdentity.cs",
@@ -674,7 +835,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 48,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "WebBanHang\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -686,7 +847,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 49,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "WebBanHang\\ScaffoldingReadMe.txt",
@@ -698,7 +859,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 50,
               "Title": "WebBanHang.csproj",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\WebBanHang.csproj",
               "RelativeDocumentMoniker": "WebBanHang\\WebBanHang.csproj",
@@ -710,55 +871,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Repositories\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "WebBanHang\\Repositories\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Repositories\\ICategoryRepository.cs",
-              "RelativeToolTip": "WebBanHang\\Repositories\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T07:10:11.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "WebBanHang\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "WebBanHang\\Repositories\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T07:10:00.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "EFCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Repositories\\EFCategoryRepository.cs",
-              "RelativeDocumentMoniker": "WebBanHang\\Repositories\\EFCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Repositories\\EFCategoryRepository.cs",
-              "RelativeToolTip": "WebBanHang\\Repositories\\EFCategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T07:11:16.366Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ProductImage.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\ProductImage.cs",
-              "RelativeDocumentMoniker": "WebBanHang\\Models\\ProductImage.cs",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Models\\ProductImage.cs",
-              "RelativeToolTip": "WebBanHang\\Models\\ProductImage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T06:59:17.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 51,
               "Title": "20250601070750_Initial.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebBanHang\\WebBanHang\\Migrations\\20250601070750_Initial.cs",
               "RelativeDocumentMoniker": "WebBanHang\\Migrations\\20250601070750_Initial.cs",

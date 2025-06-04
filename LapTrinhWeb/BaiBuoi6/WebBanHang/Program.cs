@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity.UI;
 using WebBanHang.Repositories;
 using WebBanHang.Models;
+using Microsoft.AspNetCore.Identity.UI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews(); 
@@ -15,7 +16,7 @@ builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
 builder.Services.AddRazorPages();
 builder.Services.AddScoped<IProductRepository,EFProductRepository>();
 builder.Services.AddScoped<ICategoryRepository,EFCategoryRepository>();
-
+builder.Services.AddTransient<IEmailSender, EmailSender>();
 var app = builder.Build();
 
 using (var scope = app.Services.CreateScope())

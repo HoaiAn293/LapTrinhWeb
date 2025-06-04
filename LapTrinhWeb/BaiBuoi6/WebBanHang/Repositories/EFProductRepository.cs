@@ -3,13 +3,10 @@ using WebBanHang.Models;
 
 namespace WebBanHang.Repositories
 {
-    public class EFProductRepository : IProductRepository
+    public class EFProductRepository(ApplicationDbContext context) : IProductRepository
     {
-        private readonly ApplicationDbContext _context;
-        public EFProductRepository(ApplicationDbContext context)
-        {
-            _context = context;
-        }
+        private readonly ApplicationDbContext _context = context;
+
         public async Task<IEnumerable<Product>> GetAllAsync()
         {
             return await _context.Products

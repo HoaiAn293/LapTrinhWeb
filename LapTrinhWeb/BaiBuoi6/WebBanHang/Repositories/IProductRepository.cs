@@ -11,9 +11,6 @@ namespace WebBanHang.Repositories
         Task AddAsync(Product product);
         Task UpdateAsync(Product product);
         Task DeleteAsync(int id);
-
-        Task<Dictionary<int, int>> GetProductCountGroupedByCategoryAsync();  // Thêm dòng này
-        void DeleteProduct(int id);
-        object GetProductById(int id);
+        Task<Dictionary<int, int>> GetProductCountGroupedByCategoryAsync();
     }
 }

@@ -3,9 +3,9 @@
 <div>
     <h3>Price: @Model.Price</h3>
     <p>@Model.Description</p>
-    @if (!string.IsNullOrEmpty(Model.ImageUrl))
+    @if (!string.IsNullOrEmpty(Model.ImagePath))
     {
-        <img src="@Model.ImageUrl" alt="Product Image" style="max-width:
+        <img src="@Model.ImagePath" alt="Product Image" style="max-width:
 200px;" />
     }
 </div>

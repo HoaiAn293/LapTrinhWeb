@@ -3,13 +3,10 @@ using WebBanHang.Models;
 
 namespace WebBanHang.Repositories
 {
-    public class EFCategoryRepository : ICategoryRepository
+    public class EFCategoryRepository(ApplicationDbContext context) : ICategoryRepository
     {
-        private readonly ApplicationDbContext _context;
-        public EFCategoryRepository(ApplicationDbContext context)
-        {
-            _context = context;
-        }
+        private readonly ApplicationDbContext _context = context;
+
         public async Task<IEnumerable<Category>> GetAllAsync()
         {
             return await _context.Categories
